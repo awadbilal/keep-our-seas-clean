@@ -1,0 +1,62 @@
+.blogImg {
+  height: 344px;
+  object-fit: cover;
+}
+
+.cardTitle {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.6rem;
+  text-align: center;
+  line-height: 2.5rem;
+  color: #353535;
+}
+
+.authorName {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  color: #fea60b;
+}
+
+.authorText {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 1.1rem;
+  line-height: 1.5rem;
+  color: rgba(0, 0, 0, 0.75);
+}
+
+.blogDate {
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 0.8rem;
+  line-height: 1rem;
+  color: #474849;
+}
+
+.cardLink {
+  text-decoration: none;
+}
+
+.blogCard {
+  border-radius: 7% !important;
+  margin-bottom: 3rem;
+  cursor: pointer;
+  transition: all 500ms ease;
+}
+
+.blogCard:hover {
+  text-shadow: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+  transform: translateY(-10px);
+  transition: all 500ms ease;
+  z-index: 2;
+}

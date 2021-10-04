@@ -1,0 +1,13 @@
+button.submitButton.btn.btn-primary {
+  color: #000000;
+  background-color: #ffbe4b;
+  border-color: #ffbe4b;
+  border-radius: 1.5rem;
+  padding: 0.7rem 1.7rem;
+}
+
+button.submitButton.btn.btn-primary:hover {
+  color: #fff;
+  background-color: #ff9f0a;
+  border-color: #ff9f0a;
+}

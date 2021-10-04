@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="gridSystem col-lg-4 col-md-6 col-12"
+>
+  <div
+    className="blogCardPage card"
+  >
+    <a
+      className="cardLink"
+      href="https://www.wiseoceans.com/blog-plastic-pollution/"
+      rel="noopener noreferrer"
+      target="_blank"
+    >
+      <div
+        className="card-header"
+      >
+        <h1
+          className="cardBlogTitle"
+        >
+          this is a blog title
+        </h1>
+      </div>
+    </a>
+    <div
+      className="card-body"
+    >
+      <div
+        className="row"
+        style={
+          Object {
+            "textAlign": "center",
+          }
+        }
+      >
+        <div>
+          <span
+            className="blogAuthorText"
+          >
+            homeWrittenBy
+          </span>
+           
+          <span
+            className="blogAuthorName"
+          >
+            Bilal Avvad
+          </span>
+        </div>
+        <span
+          className="blogCardDate"
+        >
+          January 4, 2020
+        </span>
+      </div>
+    </div>
+  </div>
+</div>
+`;

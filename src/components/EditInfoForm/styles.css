@@ -1,0 +1,64 @@
+.edit-form button.submitButton.btn.btn-primary {
+  color: #000000;
+  width: 55%;
+  background-color: #ffbe4b;
+  border-color: #ffbe4b;
+  border-radius: 0.32rem;
+
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.edit-form button.submitButton.btn.btn-danger {
+  color: #ffffff;
+  width: 55%;
+  border-radius: 0.32rem;
+
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+  font-size: 1.5rem;
+}
+
+.edit-form button.submitButton.btn.btn-primary:hover {
+  color: #fff;
+  background-color: #ff9f0a;
+  border-color: #ff9f0a;
+}
+
+.radiobuttons {
+  justify-content: center;
+  padding-top: 4rem;
+  display: flex;
+}
+.radiobuttons .form-check-input:focus {
+  border-color: #ffbe4b;
+  box-shadow: 0 0 0 0.05rem #ffbe4b;
+  color: #ffbe4b;
+}
+.radiobuttons .form-check-input:checked {
+  background-color: #ffbe4b;
+  border-color: #ffbe4b;
+}
+.edit-form .form-control {
+  border: 1px solid #272727;
+  box-sizing: border-box;
+  height: 70%;
+}
+
+.edit-form .mb-3 {
+  width: 60%;
+  margin: auto;
+}
+
+.edit-form .form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: #ffbe4b;
+  outline: 0;
+  box-shadow: 0 0 0 0.05rem #ffbe4b;
+}

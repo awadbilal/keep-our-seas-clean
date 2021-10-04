@@ -1,0 +1,144 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="pt-5 pb-5 fdb-block container"
+>
+  <div
+    className="align-items-center justify-content-center row"
+  >
+    <div
+      className="px-4 col-lg-8 col-md-12 col-sm-12"
+    >
+      <form
+        className=""
+      >
+        <div
+          className="mb-3 row"
+        >
+          <div
+            className="col"
+          >
+            <label
+              className="form-label"
+              htmlFor="formGridName"
+            >
+              form.name
+            </label>
+            <input
+              className="form-control"
+              id="formGridName"
+              name="name"
+              onChange={[Function]}
+              placeholder="formPlaceholder.name"
+              required={true}
+              type="text"
+              value=""
+            />
+          </div>
+          <div
+            className="col"
+          >
+            <label
+              className="form-label"
+              htmlFor="formGridSurname"
+            >
+              form.surname
+            </label>
+            <input
+              className="form-control"
+              id="formGridSurname"
+              name="surname"
+              onChange={[Function]}
+              placeholder="formPlaceholder.surname"
+              required={true}
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          className="mb-3 row"
+        >
+          <div
+            className="col"
+          >
+            <label
+              className="form-label"
+              htmlFor="formGridEmail"
+            >
+              form.email
+            </label>
+            <input
+              className="form-control"
+              id="formGridEmail"
+              name="email"
+              onChange={[Function]}
+              placeholder="formPlaceholder.email"
+              required={true}
+              type="email"
+              value=""
+            />
+          </div>
+          <div
+            className="col"
+          >
+            <label
+              className="form-label"
+              htmlFor="formGridNumber"
+            >
+              form.number
+            </label>
+            <input
+              className="form-control"
+              id="formGridNumber"
+              name="number"
+              onChange={[Function]}
+              placeholder="formPlaceholder.number"
+              required={true}
+              type="phone"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          className="mb-3"
+        >
+          <div
+            className="mb-3 input-group"
+          >
+            <span
+              className="input-group-text"
+            >
+              $
+            </span>
+            <span
+              className="input-group-text"
+            >
+              Amount
+            </span>
+            <input
+              aria-label="Dollar amount"
+              className="form-control"
+              id="exampleForm.ControlTextarea1"
+              name="amount"
+              onChange={[Function]}
+              required="true"
+              type="number"
+              value=""
+            />
+          </div>
+        </div>
+        <button
+          className="submitButton btn btn-primary"
+          disabled={false}
+          onClick={[Function]}
+          type="submit"
+        >
+          form.submit
+        </button>
+      </form>
+    </div>
+  </div>
+</div>
+`;

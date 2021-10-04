@@ -1,0 +1,95 @@
+{
+  "whyDonate.title": "Neden Bağış?",
+  "whyDonate.paragraph": "Sea Saver, Afrika'da yetimhanelere, barınaklara, mülteci kamplarına ve kıyafete ihtiyaç duyulan her yere kıyafet bağışlamanızı sağlayan bir uygulamadır.",
+  "donate.button": "Şimdi Bağış yap!",
+  "homeRecentBlogs": "Son Bloglar",
+  "homeCheckOthers": "Diğer Blogları Kontrol Edin",
+  "homeWrittenBy": "Tarafından yazılmıştır",
+  "whoWeAre.title": "Biz Kimiz?",
+  "whoWeAre.paragraph": "Sea Saver, Afrika'da yetimhanelere, barınaklara, mülteci kamplarına ve kıyafete ihtiyaç duyulan her yere kıyafet bağışlamanızı sağlayan bir uygulamadır.",
+  "meetTeam.title": "Ekiple tanış",
+  "meetTeam.paragraph": "Biz, hayatınızı kolaylaştırmak için gece gündüz çalışan kendini adamış gençlerden oluşan bir ekibiz, aynı zamanda gezegenimizi kurtarmayı da amaçlıyoruz.",
+  "blogHeader": "Bloglar ve Makaleler",
+  "getInTouch.paragraph": "Herhangi bir sorunuz veya endişeniz için bizimle iletişime geçebilirsiniz ekibimiz en kısa sürede size geri dönecektir.",
+  "getInTouch.title": "Temasta olmak!",
+  "footer.text": "Her hakkı mahfuzdur",
+  "login.text": "Hesabınıza giriş yapın",
+  "password": "Şifre",
+  "remember": "Beni hatırla",
+  "forgot.password": "Şifre unuttun?",
+  "login.button": "Giriş yap",
+  "google": "Veya google'a kaydolun",
+  "facebook": "Veya Facebook ile kaydolun",
+  "contactUs.title": "İletişim",
+  "aboutUs.title": "Hakkımızda",
+  "whyDonate": {
+    "title": "Neden Bağış Yapmalıyım?",
+    "paragraph": "Sea Saver, Afrika'da yetimhanelere, barınaklara, mülteci kamplarına ve kıyafete ihtiyaç duyulan her yere kıyafet bağışlamanızı sağlayan bir uygulamadır."
+  },
+  "whoWeAre": {
+    "title": "Biz Kimiz?",
+    "paragraph": "Sea Saver, Afrika'da yetimhanelere, barınaklara, mülteci kamplarına ve kıyafete ihtiyaç duyulan her yere kıyafet bağışlamanızı sağlayan bir uygulamadır."
+  },
+  "aboutUsContent.title": "Sea Saver nedir?",
+  "aboutUsContent.title.paragraph": "Sea Saver, dünya çapında bağış toplayarak kirlenen denizlerimizi ve okyanuslarımızı kurtarmayı ve bunu denizlere yardım ve temizlik kampanyaları oluşturmak için kullanmayı amaçlayan bir web uygulamasıdır.",
+  "aboutUsContent.vission": "Görüş",
+  "aboutUsContent.vissionText": "Daha iyi, daha güvenli, daha temiz ve daha sağlıklı denizlere sahip olmak.",
+  "aboutUsContent.mission": "Amaç",
+  "aboutUsContent.missionText": "Okyanus kirliliği için bir oyun sonu yaratmak.",
+  "home": "Ana Sayfa",
+  "about": "Hakkımızda",
+  "blog": "Bloglar",
+  "contactUs": "İletişime geç",
+  "lang": "TR",
+  "donateButton": "Bağış yap",
+  "signInButton": "Kaydol/Giriş yap",
+  "editProfileButton": "profili Düzenle",
+  "contact": {
+    "header": {
+      "title": "İletişim"
+    },
+    "team": {
+      "title": "Ekiple tanış",
+      "paragraph": "Bizler hayatınızı kolaylaştırmak için gece gündüz çalışan kendini adamış gençlerden oluşan bir ekibiz, aynı zamanda gezegenimizi kurtarmayı da amaçlıyoruz, bize katılsak iyi olur :)"
+    },
+    "getInTouch": {
+      "title": "Temasta olmak!",
+      "paragraph": "Herhangi bir sorunuz veya endişeniz için bizimle iletişime geçebilirsiniz; ekibimiz en kısa sürede size geri dönecektir."
+    }
+  },
+  "form": {
+    "name": "İsim",
+    "surname": "Soyadı",
+    "email": "E-posta",
+    "number": "Telefon numarası",
+    "message": "İleti",
+    "submit": "Gönder"
+  },
+  "formPlaceholder": {
+    "name": "Adınızı giriniz",
+    "surname": "Soyadınızı girin",
+    "email": "E-postanızı giriniz",
+    "number": "Telefon numaranızı girin",
+    "message": "Mesajınızı girin"
+  },
+  "editFormPlaceholder": {
+    "name": "John",
+    "surname": "Doe",
+    "email": "john.doe@gmail.com",
+    "biography": "Tell me about yourself"
+  },
+  "editForm": {
+    "name": "Name*",
+    "surname": "Surname*",
+    "email": "Email*",
+    "biography": "Biography",
+    "submit": "Save",
+    "female": "female",
+    "male": "male",
+    "other": "other"
+  },
+  "donate": {
+    "title": "Bağış"
+  },
+  "editForm.logOut": "Çıkış Yap"
+}

@@ -1,0 +1,11 @@
+.title {
+  color: #ffa60c;
+  display: inline;
+}
+.memberImg {
+  width: 6.5rem;
+}
+
+.contactIcons:hover {
+  fill: #ffa60c;
+}

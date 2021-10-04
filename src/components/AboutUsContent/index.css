@@ -1,0 +1,16 @@
+.title-about {
+  color: #ffa60c;
+}
+
+.aboutcontent {
+  font-family: Open Sans;
+  color: black;
+}
+h5.subTitle {
+  font-weight: bold;
+}
+.groupImage {
+  max-width: 100%;
+  height: auto;
+  padding-left: 5rem;
+}

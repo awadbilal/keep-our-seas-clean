@@ -1,0 +1,100 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<form
+  className=""
+>
+  <div
+    className="mb-3 row"
+  >
+    <div
+      className="col"
+    >
+      <label
+        className="form-label"
+        htmlFor="formGridName"
+      >
+        form.name
+      </label>
+      <input
+        className="form-control"
+        id="formGridName"
+        name="name"
+        onChange={[Function]}
+        placeholder="formPlaceholder.name"
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+    <div
+      className="col"
+    >
+      <label
+        className="form-label"
+        htmlFor="formGridSurname"
+      >
+        form.surname
+      </label>
+      <input
+        className="form-control"
+        id="formGridSurname"
+        name="surname"
+        onChange={[Function]}
+        placeholder="formPlaceholder.surname"
+        required={true}
+        type="text"
+        value=""
+      />
+    </div>
+  </div>
+  <div
+    className="mb-3"
+  >
+    <label
+      className="form-label"
+      htmlFor="formGridEmail"
+    >
+      form.email
+    </label>
+    <input
+      className="form-control"
+      id="formGridEmail"
+      name="email"
+      onChange={[Function]}
+      placeholder="formPlaceholder.email"
+      required={true}
+      type="email"
+      value=""
+    />
+  </div>
+  <div
+    className="mb-3"
+  >
+    <label
+      className="form-label"
+      htmlFor="exampleForm.ControlTextarea1"
+    >
+      form.message
+    </label>
+    <textarea
+      className="form-control"
+      id="exampleForm.ControlTextarea1"
+      name="message"
+      onChange={[Function]}
+      placeholder="formPlaceholder.message"
+      required={true}
+      rows={3}
+      value=""
+    />
+  </div>
+  <button
+    className="submitButton btn btn-primary"
+    disabled={false}
+    onClick={[Function]}
+    type="submit"
+  >
+    form.submit
+  </button>
+</form>
+`;

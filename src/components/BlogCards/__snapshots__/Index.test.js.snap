@@ -1,0 +1,254 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="row"
+>
+  <div
+    className="gridSystem col-lg-4 col-md-6 col-12"
+  >
+    <div
+      className="blogCard card"
+    >
+      <a
+        className="cardLink"
+        href="https://www.wiseoceans.com/blog-plastic-pollution/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <img
+          className="card-img-top blogImg"
+          src="https://images.unsplash.com/photo-1617953141905-b27fb1f17d88?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fG9jZWFuJTIwd2FzdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+        />
+        <div
+          className="card-header"
+        >
+          <h1
+            className="cardTitle"
+          >
+            this is a blog title
+          </h1>
+        </div>
+      </a>
+      <div
+        className="card-body"
+      >
+        <div
+          className="justify-content-end row"
+        >
+          <div
+            className="col-md-2 col-2"
+          >
+            <img
+              className="rounded-circle"
+              src="https://avatars.githubusercontent.com/u/81809505?v=4"
+              style={
+                Object {
+                  "height": "50px",
+                  "width": "50px",
+                }
+              }
+            />
+          </div>
+          <div
+            className="col-md-9 col-10"
+          >
+            <div
+              className="row"
+            >
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="authorText"
+                >
+                  homeWrittenBy
+                </span>
+                 
+                <span
+                  className="authorName"
+                >
+                  Bilal Avvad
+                </span>
+              </div>
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="blogDate"
+                >
+                  January 4, 2020
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="gridSystem col-lg-4 col-md-6 col-12"
+  >
+    <div
+      className="blogCard card"
+    >
+      <a
+        className="cardLink"
+        href="https://www.wiseoceans.com/blog-plastic-pollution/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <img
+          className="card-img-top blogImg"
+          src="https://images.unsplash.com/photo-1617953141905-b27fb1f17d88?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fG9jZWFuJTIwd2FzdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+        />
+        <div
+          className="card-header"
+        >
+          <h1
+            className="cardTitle"
+          >
+            this is a blog title
+          </h1>
+        </div>
+      </a>
+      <div
+        className="card-body"
+      >
+        <div
+          className="justify-content-end row"
+        >
+          <div
+            className="col-md-2 col-2"
+          >
+            <img
+              className="rounded-circle"
+              src="https://avatars.githubusercontent.com/u/81809505?v=4"
+              style={
+                Object {
+                  "height": "50px",
+                  "width": "50px",
+                }
+              }
+            />
+          </div>
+          <div
+            className="col-md-9 col-10"
+          >
+            <div
+              className="row"
+            >
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="authorText"
+                >
+                  homeWrittenBy
+                </span>
+                 
+                <span
+                  className="authorName"
+                >
+                  Bilal Avvad
+                </span>
+              </div>
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="blogDate"
+                >
+                  January 4, 2020
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="gridSystem col-lg-4 col-md-6 col-12"
+  >
+    <div
+      className="blogCard card"
+    >
+      <a
+        className="cardLink"
+        href="https://www.wiseoceans.com/blog-plastic-pollution/"
+        rel="noopener noreferrer"
+        target="_blank"
+      >
+        <img
+          className="card-img-top blogImg"
+          src="https://images.unsplash.com/photo-1617953141905-b27fb1f17d88?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mjh8fG9jZWFuJTIwd2FzdGV8ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80"
+        />
+        <div
+          className="card-header"
+        >
+          <h1
+            className="cardTitle"
+          >
+            this is a blog title
+          </h1>
+        </div>
+      </a>
+      <div
+        className="card-body"
+      >
+        <div
+          className="justify-content-end row"
+        >
+          <div
+            className="col-md-2 col-2"
+          >
+            <img
+              className="rounded-circle"
+              src="https://avatars.githubusercontent.com/u/81809505?v=4"
+              style={
+                Object {
+                  "height": "50px",
+                  "width": "50px",
+                }
+              }
+            />
+          </div>
+          <div
+            className="col-md-9 col-10"
+          >
+            <div
+              className="row"
+            >
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="authorText"
+                >
+                  homeWrittenBy
+                </span>
+                 
+                <span
+                  className="authorName"
+                >
+                  Bilal Avvad
+                </span>
+              </div>
+              <div
+                className="col-md-12 col-12"
+              >
+                <span
+                  className="blogDate"
+                >
+                  January 4, 2020
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

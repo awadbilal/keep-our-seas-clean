@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Moumen Hallak",
+    "image": "./images/moumen.jpg",
+    "alt": "Moumen Hallak",
+    "linkedin": "https://www.linkedin.com/in/moumen-hallak/",
+    "email": "mailto:moumen95@gmail.com"
+  },
+  {
+    "name": "Bilal Avvad",
+    "image": "./images/bilal.png",
+    "alt": "Bilal Avvad",
+    "linkedin": "https://www.linkedin.com/in/bilal-avvad/",
+    "email": "mailto:awadbilal99@gmail.com"
+  },
+  {
+    "name": "Isa Tekinkaya",
+    "image": "./images/avatar.png",
+    "alt": "Isa Tekinkaya",
+    "linkedin": "https://www.linkedin.com/in/isa-tekinkaya-7020131a7/",
+    "email": "mailto:Isatekinkaya@yahoo.de"
+  },
+  {
+    "name": "Yeşim Nur Akar",
+    "image": "./images/yesim.jpg",
+    "alt": "Yeşim Nur Akar",
+    "linkedin": "https://www.linkedin.com/in/yesimnurakar/",
+    "email": "mailto:yesimnurakar@gmail.com"
+  }
+]

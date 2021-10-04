@@ -1,0 +1,129 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <div
+    className="slider-wrapper"
+  >
+    <a
+      className="previousButton"
+      onClick={[Function]}
+    >
+      <svg
+        height="30"
+        viewBox="0 0 20 30"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          fill="#000"
+          points="20 15 4.228 0 0 3.626 11.954 15 0 26.374 4.228 30"
+          transform="rotate(180 10 15)"
+        />
+      </svg>
+    </a>
+    <a
+      className="nextButton"
+      onClick={[Function]}
+    >
+      <svg
+        height="30"
+        viewBox="0 0 20 30"
+        width="20"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <polygon
+          fill="#000"
+          points="20 15 4.228 0 0 3.626 11.954 15 0 26.374 4.228 30"
+          transform="rotate(0 10 15)"
+        />
+      </svg>
+    </a>
+    <div
+      className="track"
+    >
+      <div
+        className="slide current slider-content"
+        style={
+          Object {
+            "background": "url('https://images.unsplash.com/photo-1589634749000-1e72ec00a13f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80') no-repeat center center",
+          }
+        }
+      >
+        <div
+          className="inner"
+        >
+          <h1>
+            heroContent.title
+          </h1>
+          <p>
+            heroContent.description
+          </p>
+          <a
+            className="heroButton btn btn-primary"
+            href="donate"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            heroContent.button
+          </a>
+        </div>
+      </div>
+      <div
+        className="slide next slider-content"
+        style={
+          Object {
+            "background": "url('https://images.unsplash.com/photo-1621451537084-482c73073a0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80') no-repeat center center",
+          }
+        }
+      >
+        <div
+          className="inner"
+        >
+          <h1>
+            heroContent.title
+          </h1>
+          <p>
+            heroContent.description
+          </p>
+          <a
+            className="heroButton btn btn-primary"
+            href="donate"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            heroContent.button
+          </a>
+        </div>
+      </div>
+      <div
+        className="slide previous slider-content"
+        style={
+          Object {
+            "background": "url('https://images.unsplash.com/photo-1558640476-437a2b9438a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=2098&q=80') no-repeat center center",
+          }
+        }
+      >
+        <div
+          className="inner"
+        >
+          <h1>
+            heroContent.title
+          </h1>
+          <p>
+            heroContent.description
+          </p>
+          <a
+            className="heroButton btn btn-primary"
+            href="donate"
+            onClick={[Function]}
+            onKeyDown={[Function]}
+          >
+            heroContent.button
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

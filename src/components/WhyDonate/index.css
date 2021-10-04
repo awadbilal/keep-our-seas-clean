@@ -1,0 +1,26 @@
+.titles {
+  color: #ffa60c;
+  display: inline;
+  border-bottom: 0.2rem solid #ffa60c;
+  font-weight: bold;
+}
+.main.pt-5.pb-5.fdb-block.container-fluid {
+  background-color: #eaeaea;
+}
+
+a.donateButton.btn.btn-primary {
+  color: #000000;
+  background-color: #ffbe4b;
+  border-color: #ffbe4b;
+  border-radius: 1.5rem;
+  padding: 0.7rem 1.7rem;
+}
+
+a.donateButton.btn.btn-primary:hover {
+  color: #fff;
+  background-color: #ff9f0a;
+  border-color: #ff9f0a;
+}
+img.whyDonate {
+  max-width: 100%;
+}

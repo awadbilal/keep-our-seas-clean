@@ -1,0 +1,107 @@
+{
+  "whyDonate": {
+    "title": "Why Donate?",
+    "paragraph": "Sea Saver is an app that enables you to donate clothes to orphanages, shelters, refugee camps and anywhere else clothes are needed across Africa."
+  },
+  "whoWeAre": {
+    "title": "Who are we?",
+    "paragraph": "Sea Saver is an app that enables you to donate clothes to orphanages, shelters, refugee camps and anywhere else clothes are needed across Africa."
+  },
+  "donate.button": "Donate Now!",
+  "homeRecentBlogs": "Recent Blogs",
+  "homeCheckOthers": "Check other Articles and Blogs",
+  "homeWrittenBy": "Written By",
+  "heroContent": {
+    "title": "Sea Saver",
+    "button": "Donate Now!",
+    "description": " Keep Our Seas Clean"
+  },
+  "alt": "vision",
+  "aboutUs.title": "About Us",
+  "blogHeader": "Blogs and Articles",
+  "aboutUsContent.title": "What is Sea Saver?",
+  "aboutUsContent.title.paragraph": "Sea Saver is a web application that aims to save our polluted seas and oceans by collecting donations accross the world and use it in order to create campaigns for helping and cleaning the seas.",
+  "heroContent.title": "Sea Saver",
+  "heroContent.button": "Donate Now!",
+  "heroContent.description": " Keep Our Seas Clean",
+  "heroImage": [
+    {
+      "foto": "https://images.unsplash.com/photo-1589634749000-1e72ec00a13f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1621451537084-482c73073a0f?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1934&q=80"
+    },
+    {
+      "foto": "https://images.unsplash.com/photo-1558640476-437a2b9438a2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1798&q=80"
+    }
+  ],
+  "meetTeam.title": "Meet the Team",
+  "footer.text": "All rights reserved",
+  "login.text": "Login to your account",
+  "remember": "Remember me",
+  "forgot.password": "Forgot password?",
+  "login.button": "Login now",
+  "google": "Or sign up with Google",
+  "facebook": "Or sign up with Facebook",
+  "meetTeam.paragraph": "We are a team of a dedicated juniors working around the clock to make your life easier, we aim to save our planet at the same time, might as well join us :)",
+  "contact": {
+    "header": {
+      "title": "Contact Us"
+    },
+    "team": {
+      "title": "Meet the Team",
+      "paragraph": "We are a team of a dedicated juniors working around the clock to make your life easier, we aim to save our planet at the same time, might as well join us :)"
+    },
+    "getInTouch": {
+      "title": "Get in Touch!",
+      "paragraph": "For any questions or concerns you can contact us and our team will get back to you as soon as possible."
+    }
+  },
+  "aboutUsContent.vission": "Vision",
+  "aboutUsContent.vissionText": "To have a better, safer, cleaner, and healthier seas.",
+  "aboutUsContent.mission": "Mission",
+  "aboutUsContent.missionText": "To create an end game for ocean pollution.",
+  "home": "Home",
+  "about": "About",
+  "blog": "Blog",
+  "contactUs": "Contact us",
+  "lang": "EN",
+  "donateButton": "Donate",
+  "signInButton": "Sign up/Login in",
+  "editProfileButton": "Edit Profile",
+  "form": {
+    "name": "Name",
+    "surname": "Surname",
+    "email": "Email",
+    "number": "Phone Number",
+    "message": "Message",
+    "submit": "Submit"
+  },
+  "formPlaceholder": {
+    "name": "Enter your name",
+    "surname": "Enter your surname",
+    "email": "Enter your email",
+    "number": "Enter your phone number",
+    "message": "Enter your message"
+  },
+  "editFormPlaceholder": {
+    "name": "John",
+    "surname": "Doe",
+    "email": "john.doe@gmail.com",
+    "biography": "Tell me about yourself"
+  },
+  "editForm": {
+    "name": "Name*",
+    "surname": "Surname*",
+    "email": "Email*",
+    "biography": "Biography",
+    "submit": "Save",
+    "female": "female",
+    "male": "male",
+    "other": "other"
+  },
+  "donate": {
+    "title": "Donate"
+  },
+  "editForm.logOut": "Sign Out"
+}

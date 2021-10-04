@@ -1,0 +1,50 @@
+.navBarSection {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.navBarLinks {
+  text-decoration: none;
+  font-family: Open Sans;
+  color: #000000;
+  font-size: 1.2rem;
+}
+
+.navBarLinks:hover {
+  color: #ffbe4b;
+  border-bottom: 0.2rem solid #ffa60c;
+}
+#lang-button,
+#lang-button:hover {
+  margin-right: 1rem;
+  border: none;
+  border-radius: 25px;
+  background-color: #4e4e4e;
+  color: #ffffff;
+  font-size: 1.1rem;
+  font-family: Open Sans;
+}
+
+#donateButton,
+#donateButton:hover {
+  margin-right: 1rem;
+  border-radius: 25px;
+  border: none;
+  height: 2.2rem;
+  background-color: #ffbe4b;
+  color: hsla(200, 0%, 0%, 0.7);
+  font-size: 1.1rem;
+  font-family: Open Sans;
+}
+
+#SignUpButton,
+#SignUpButton:hover {
+  margin-right: 1rem;
+  border-radius: 25px;
+  border: none;
+  height: 2.2rem;
+  background-color: #ff6f3b;
+  color: #fff;
+  font-size: 1.1rem;
+  font-family: Open Sans;
+}
