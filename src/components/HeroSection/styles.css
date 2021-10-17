@@ -38,36 +38,26 @@ header section a {
   outline: none;
 }
 
-a.heroButton.btn.btn-primary {
-  -webkit-appearance: none;
-  appearance: none;
-  -webkit-filter: drop-shadow(0 0.3rem 0.3rem rgba(0, 0, 0, 0.1));
-  filter: drop-shadow(0 0.3rem 0.3rem rgba(0, 0, 0, 0.1));
-  -webkit-transition: all 0.05s ease;
-  filter: drop-shadow(0 0.3rem 0.3rem rgba(0, 0, 0, 0.1));
-  -webkit-transition: all 0.05s ease;
+.heroButton {
+  color: #000000;
+  background-color: #ffbe4b;
+  border-color: #ffbe4b;
+  border-radius: 1.5rem;
+  padding: 0.7rem 1.7rem;
+  text-decoration: none;
   transition: all 0.05s ease;
-  border: none;
-  background: rgb(255, 190, 75);
-  border-radius: 1.9rem;
-  color: #000;
-  box-sizing: border-box;
-  padding: 0.3rem 1.75rem;
   font-family: Open Sans;
   font-weight: 600;
   font-size: 1.2rem;
   cursor: cursor;
-  max-height: 100%;
   width: 14rem;
-  height: 4rem;
-  padding-top: 1rem;
 }
 
-a.heroButton.btn.btn-primary:hover {
-  color: #ffffff;
-  background: #222222;
-  -webkit-filter: drop-shadow(0 0 0.3rem rgba(0, 0, 0, 0.2));
-  filter: drop-shadow(0 0 0.3rem rgba(0, 0, 0, 0.2));
+.heroButton:hover {
+  color: #fff;
+  background-color: #ff9f0a;
+  border-color: #ff9f0a;
+  text-decoration: none;
 }
 
 .wrapper {

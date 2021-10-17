@@ -3,7 +3,6 @@ import Slider from "react-animated-slider";
 import "react-animated-slider/build/horizontal.css";
 import "./styles.css";
 import { useTranslation } from "react-i18next";
-import { Button } from "react-bootstrap";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -25,9 +24,9 @@ const Hero = () => {
             <div className="inner">
               <h1>{t("heroContent.title")}</h1>
               <p>{t("heroContent.description")}</p>
-              <Button className="heroButton" href="donate">
+              <a className="heroButton" href="/donate">
                 {t("heroContent.button")}
-              </Button>
+              </a>
             </div>
           </div>
         ))}

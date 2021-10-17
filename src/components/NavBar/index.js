@@ -3,12 +3,10 @@ import { Link } from "react-router-dom";
 import { Container, Navbar, Nav, NavDropdown, Button } from "react-bootstrap";
 import "./style.css";
 import { useTranslation } from "react-i18next";
-import { useAuth } from "../../Context/AuthContext";
 import logo from "../../images/logo.png";
 
 function NavBar() {
   const { t, i18n } = useTranslation();
-  const { currentUser } = useAuth();
   const changeLanguage = () => {
     if (i18n.language === "en") i18n.changeLanguage("tr");
     else i18n.changeLanguage("en");
@@ -77,11 +75,6 @@ function NavBar() {
                 <Link to="/donate">
                   <Button id="donateButton" href="../WhyDonate/index.js">
                     {t("donateButton")}
-                  </Button>
-                </Link>
-                <Link to={currentUser ? "/edit-profile" : "/login"}>
-                  <Button id="SignUpButton" href="../Login/index.js">
-                    {currentUser ? t("editProfileButton") : t("signInButton")}
                   </Button>
                 </Link>
               </div>
