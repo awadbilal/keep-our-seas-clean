@@ -1,8 +1,9 @@
 import React from "react";
 import Slider from "react-animated-slider";
 import "react-animated-slider/build/horizontal.css";
-import "./styles.css";
 import { useTranslation } from "react-i18next";
+import { Link } from "react-router-dom";
+import "./styles.css";
 
 const Hero = () => {
   const { t } = useTranslation();
@@ -24,9 +25,9 @@ const Hero = () => {
             <div className="inner">
               <h1>{t("heroContent.title")}</h1>
               <p>{t("heroContent.description")}</p>
-              <a className="heroButton" href="/donate">
+              <Link className="heroButton" to="/donate">
                 {t("heroContent.button")}
-              </a>
+              </Link>
             </div>
           </div>
         ))}
